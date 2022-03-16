@@ -1,0 +1,29 @@
+*{
+    background-color: #222;
+    color:aliceblue;
+    font-family: 'open sans', 'comic sans MS', sans-serif;
+}
+
+body{
+    margin: 40px auto;
+    padding: 10px 20px;
+    max-width: 800px;
+    line-height: 1.6;
+}
+/* h1, h2, h3, ......,h6; with this u can choose the size of word font; h1 is largest*/
+h1, h3{
+    line-height: 1.2;
+}
+
+a{
+    color:rgb(16, 157, 212);
+}
+.moodle{
+    color: #F98012;
+}
+
+img{
+    border-radius: 10%s;
+}
+
+
